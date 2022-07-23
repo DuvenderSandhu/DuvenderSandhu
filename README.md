@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Duvender Sandhu
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -23,7 +23,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  </div>
-https://github-readme-stats.vercel.app/api/pin/?username=DuvenderSandhu&repo=github-readme-stats)](https://github.com/DuvenderSandhu/github-readme-stats)
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=DuvenderSandhu&theme=dark&background=000000)](https://git.io/streak-stats">
+</div>
   
 <!--
 **DuvenderSandhu/DuvenderSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
